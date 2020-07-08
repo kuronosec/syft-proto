@@ -222,6 +222,14 @@
     },
     "syft.frameworks.crypten.model.OnnxModel": {
       "code": 68
+    },
+    "syft.workers.websocket_client.WebsocketClientWorker": {
+      "code": 69,
+      "forced_code": 70
+    },
+    "syft.workers.node_client.NodeClient": {
+      "code": 71,
+      "forced_code": 72
     }
   }
 }
